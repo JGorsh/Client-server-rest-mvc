@@ -1,0 +1,7 @@
+# Project exclude paths
+/out/
+
+mvc_rest_client/target
+mvc_rest_client/.idea
+mvc_rest_server/target
+mvc_rest_server/.idea
